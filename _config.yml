@@ -3,7 +3,7 @@ description: A personal blog about technology and life.
 url: "https://wcr369.github.io"
 baseurl: ""
 
-theme: jekyll-theme-minimal
+theme: jekyll-theme-tactile
 
 author: Chenrun Wang
 # avatar: "https://avatars.githubusercontent.com/u/123456?v=4"
@@ -27,10 +27,10 @@ menu:
 paginate: 5
 paginate_path: "/blog/page:num/"
 
-comments:
-  provider: disqus
-  disqus:
-    shortname: myblog-disqus-shortname
+# comments:
+#   provider: disqus
+#   disqus:
+#     shortname: myblog-disqus-shortname
 
 timezone: Asia/Shanghai
 markdown: kramdown
