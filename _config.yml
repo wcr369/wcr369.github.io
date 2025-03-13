@@ -16,9 +16,9 @@ social:
 
 menu:
   - name: Home
-    url: /
-  - name: About
-    url: /about
+    url: "https://wcr369.github.io"
+  - name: Xiaohongshu 
+    url: "https://www.xiaohongshu.com/user/profile/6104a7de0000000001002868"
   - name: Blog
     url: /blog
   - name: Contact
