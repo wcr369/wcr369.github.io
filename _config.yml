@@ -1,0 +1,36 @@
+title: My Blog
+description: A personal blog about technology and life.
+url: "https://wcr369.github.io"
+baseurl: ""
+
+theme: jekyll-theme-minimal
+
+author: Chenrun Wang
+# avatar: "https://avatars.githubusercontent.com/u/123456?v=4"
+email: 1282713208@qq.com
+social:
+  github: wcr369
+  # twitter: username
+  # linkedin: username
+
+menu:
+  - name: Home
+    url: /
+  - name: About
+    url: /about
+  - name: Blog
+    url: /blog
+  - name: Contact
+    url: /contact
+
+paginate: 5
+paginate_path: "/blog/page:num/"
+
+comments:
+  provider: disqus
+  disqus:
+    shortname: myblog-disqus-shortname
+
+timezone: Asia/Shanghai
+markdown: kramdown
+highlighter: rouge
