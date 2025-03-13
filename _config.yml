@@ -16,7 +16,7 @@ social:
 
 menu:
   - name: Home
-    url: /
+    url: "https://wcr369.github.io"
   - name: About
     url: /about
   - name: Blog
