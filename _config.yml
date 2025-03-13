@@ -1,7 +1,7 @@
 title: My Blog
 description: A personal blog about technology and life.
 url: "https://wcr369.github.io"
-baseurl: 
+baseurl: "https://wcr369.github.io"
 
 theme: jekyll-theme-minimal
 
@@ -16,9 +16,9 @@ social:
 
 menu:
   - name: Home
-    url: "https://wcr369.github.io"
-  - name: Xiaohongshu 
-    url: "https://www.xiaohongshu.com/user/profile/6104a7de0000000001002868"
+    url: /
+  - name: About
+    url: /about
   - name: Blog
     url: /blog
   - name: Contact
