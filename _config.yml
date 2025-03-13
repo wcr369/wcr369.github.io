@@ -3,7 +3,7 @@ description: Chenrun Wang's blog about life and technology.
 url: "https://wcr369.github.io"
 baseurl: ""
 
-remote_theme: "jekyll/minima@1e8a445"
+theme: jekyll-theme-minimal
 
 author: Chenrun Wang
 # avatar: "https://avatars.githubusercontent.com/u/123456?v=4"
