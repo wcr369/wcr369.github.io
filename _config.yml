@@ -35,3 +35,13 @@ comments:
 timezone: Asia/Shanghai
 markdown: kramdown
 highlighter: rouge
+
+navigation:
+  - text: "Xiao"
+    url: "https://www.xiaohongshu.com/user/profile/6104a7de0000000001002868"
+  - text: "About"
+    url: "/about"
+  - text: "Blog"
+    url: "/blog"
+  - text: "Contact"
+    url: "/contact"
