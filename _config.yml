@@ -1,8 +1,3 @@
-title: My Blog
-description: A personal blog about technology and life.
-url: "https://wcr369.github.io"
-baseurl: "https://wcr369.github.io"
-
 theme: jekyll-theme-minimal
 
 author: Chenrun Wang

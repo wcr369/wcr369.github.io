@@ -1,4 +1,2 @@
-# wcr369.github.io
-Hello!
-
-# This is
+## Hello!
+Welcome to chenrun's personel website!
